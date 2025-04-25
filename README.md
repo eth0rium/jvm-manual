@@ -1,6 +1,11 @@
-go to the <a href="https://github.com/WalmartSolutions/jvm-manual/wiki">wiki</a> for material.
+Go to <a href="https://github.com/WalmartSolutions/jvm-manual/wiki">wiki</a> for material.
 
-Second iteration of the manual is at https://github.com/ethaanol/re-manual or https://trillium-2.gitbook.io/re-manual
+# Why?
+I made this because I felt like there were no good resources to learn JVM RE and my journey was difficult and took a while. <br>
+This wiki packs basically everything you would need to know to reverse an easy to intermediate level **crackme**.
+
+No, it will not teach you everything there is to know (obviously), a lot of things you will still have to learn yourself. <br>
+For which I suggest reading the JVM specification.
 
 # Disclaimers
 This wiki is still not *finished* and won't be for a pretty long time which means you might see missing information or incorrect information, refer to the issues page for this.
@@ -22,8 +27,3 @@ Contributions are completely welcome although there are a few requirements.
 - This doesn't mean you are limited to the amount of information you are allowed to provide but simply means that you shouldn't make a step-by-step guide on how to crack software.
 
 There are obviously more but you should use common sense for those ones.
-
-⚫⚪⚪⚫⚪⚪⚪⚫ <br>
-⚫⚪⚪⚫⚫⚪⚫⚪ <br>
-⚫⚪⚪⚪⚫⚫⚪⚫ <br>
-⚫⚪⚪⚫⚫⚪⚫⚫ 
